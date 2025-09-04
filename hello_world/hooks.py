@@ -1,0 +1,6 @@
+app_name = "hello_world"
+app_title = "Hello World"
+app_publisher = "You"
+app_description = "Minimal Hello World app for ERPNext"
+app_email = "you@example.com"
+app_license = "MIT"
